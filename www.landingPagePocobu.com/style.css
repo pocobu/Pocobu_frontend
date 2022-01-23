@@ -1,0 +1,16 @@
+#hero {
+  background-color: #0b4343;
+}
+
+.lead {
+  color: white;
+}
+
+.bi {
+  vertical-align: -0.125em;
+  fill: currentColor;
+}
+
+body {
+  background-color: #712d08;
+}
